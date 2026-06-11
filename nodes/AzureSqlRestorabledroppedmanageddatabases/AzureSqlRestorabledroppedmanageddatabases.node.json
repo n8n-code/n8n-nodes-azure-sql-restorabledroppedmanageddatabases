@@ -1,0 +1,20 @@
+{
+  "node": "N8nDevAzureSqlRestorabledroppedmanageddatabases",
+  "nodeVersion": "1.0",
+  "codexVersion": "1.0",
+  "categories": [
+    "Development"
+  ],
+  "resources": {
+    "primaryDocumentation": [
+      {
+        "url": "https://github.com/n8n-code/n8n-nodes-azure-sql-restorabledroppedmanageddatabases"
+      }
+    ],
+    "credentialDocumentation": [
+      {
+        "url": "https://github.com/n8n-code/n8n-nodes-azure-sql-restorabledroppedmanageddatabases?tab=readme-ov-file#credentials"
+      }
+    ]
+  }
+}
